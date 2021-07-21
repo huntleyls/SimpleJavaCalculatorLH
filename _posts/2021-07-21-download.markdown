@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "How To Download"
+categories: jekyll update
+date:  2021-07-21 14:40:42
+---
+1. Check out the [GitHub][file] file page to find the software
+
+2. click on the green download code button ![Hello World](/assets/images/l.png)
+
+3. Unzip the file to your Desktop
+![Hello World](/assets/images/t.png)
+
+4. click on the Simple-Java-Calculator.jar
+![Hello World](/assets/images/g.png)
+
+5. Happy Calculating
+
+![Hello World](/assets/images/screenshot.png)
+
+
+[file]: https://github.com/pH-7/Simple-Java-Calculator
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

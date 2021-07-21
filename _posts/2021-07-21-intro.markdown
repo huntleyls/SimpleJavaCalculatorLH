@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Introduction"
+categories: jekyll update
+date: 2021-07-21 14:40:46
+---
+The program is a Simple java calculator for windows it was originally written in eclipse but is now run on NetBeans it can do simple equations such as Addition, Subtraction, Multiplication, Division, and more.
+
+![Hello World](/assets/images/screenshot.png)
